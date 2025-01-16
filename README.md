@@ -32,7 +32,7 @@ The dataset used for training contains 3,754 images of cucumber leaves, divided 
 - **Powdery mildew**
 - **Downy mildew**
 
-![Dataset_Link](https://www.kaggle.com/datasets/kaushigihanml/cucumber-leaf-disease-dataset)
+[Dataset_Link](https://www.kaggle.com/datasets/kaushigihanml/cucumber-leaf-disease-dataset)
 
 
 ## Notebooks
@@ -64,7 +64,7 @@ You can find this notebook in this repository and Kaggle.
 
     - Confusion Matrix: 
         Highlights some overlap between certain classes, with a noticeable number of misclassified samples in specific categories.
-![Confusion metrix](https://www.kaggle.com/code/kaushigihanml/cucumber-leaf-disease-classification-vgg16)
+![Confusion metrix](https://github.com/KaushiML3/Cucumber-Leaf-Disease-Classification-CNN-VGG16-VIT/blob/main/scr_img/custom.png)
 
     - Key Strengths:
         Tailored to the dataset, offering a straightforward implementation.
@@ -95,7 +95,7 @@ You can find this notebook in this repository and Kaggle.
     - Confusion Matrix: 
         Shows significantly fewer misclassified samples, with a more accurate distribution across all classes.
 
-![Confusion metrix](https://www.kaggle.com/code/kaushigihanml/cucumber-leaf-disease-classification-vgg16)
+![Confusion metrix](https://github.com/KaushiML3/Cucumber-Leaf-Disease-Classification-CNN-VGG16-VIT/blob/main/scr_img/vgg16.png)
 
     - Key Strengths:
         High accuracy and robust performance, especially on complex patterns.
