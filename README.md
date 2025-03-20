@@ -104,6 +104,8 @@ You can find this notebook in this repository and Kaggle.
     - Key Limitations:
         Requires higher computational resources.
         Slightly less flexible for customization compared to the custom model.
+- **Infetence**
+![image](scr_img/cucumber.png)
 
 - **Summary :**
 Custom Architecture is ideal for scenarios requiring lightweight models with fewer resources.
